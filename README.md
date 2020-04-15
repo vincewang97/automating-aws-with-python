@@ -1,2 +1,3 @@
 # automating-aws-with-python
-online class repo
+this is from the online class
+at  A cloud guru leaded by Robin
